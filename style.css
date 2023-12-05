@@ -25,12 +25,24 @@
 }
 
 .skills {
-    margin-top: 100px !important;
-    margin-left: 100px !important;
+    margin-top: 75px !important;
+    margin-left: 16px !important;
+}
+
+.aboutMe {
+    margin-top: 75px !important;
+    margin-left: 16px !important;
+}
+
+.contactMe {
+    margin-top: 75px !important;
+    margin-left: 16px !important;
+    margin-bottom: 75px;
 }
 
 .profilepic {
-    width: 100px;
+    width: 140px;
     height: 200px;
     border-radius: 50%;
+    margin: 30px;
 }
