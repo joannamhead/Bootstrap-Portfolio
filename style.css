@@ -15,6 +15,11 @@
     background-color: lightblue !important;
 }
 
+.navbar-brand {
+    color: #00b3b3;
+    font-weight: bold;
+}
+
 .btn {
     background-color: lightblue !important;
     border-color: lightblue !important;
@@ -52,6 +57,16 @@
 }
 
 .footer-link {
-    color: lightblue;
+    color: #00b3b3;
     font-weight: bold;
+    margin-left: 16px;
+}
+
+.contactMeLinks {
+    color: #00b3b3;
+    font-weight: bold;
+}
+
+.body {
+    background-color: #e6faff
 }
